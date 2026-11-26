@@ -1,0 +1,1353 @@
+{
+ "ic_af_shizuku_plus_api": {
+  "glyph": "crane+plus",
+  "package": "af.shizuku.plus.api",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_air_kukulive_mailnow": {
+  "glyph": "envelope+bolt",
+  "package": "air.kukulive.mailnow",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_app_morphe_manager": {
+  "glyph": "play+gear",
+  "package": "app.morphe.manager",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_app_morphe_pot_helper": {
+  "glyph": "flask",
+  "package": "app.morphe.pot.helper",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_app_mystery0_ims_tensor": {
+  "glyph": "tower+chip",
+  "package": "app.mystery0.ims.tensor",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_app_revanced_android_gms": {
+  "glyph": "puzzle",
+  "package": "app.revanced.android.gms",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_app_rvx_android_youtube": {
+  "glyph": "play",
+  "package": "app.rvx.android.youtube",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_by4a_setedit22": {
+  "glyph": "database",
+  "package": "by4a.setedit22",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ch_patrickfrei_phonetinfo_free": {
+  "glyph": "phone+magnifier",
+  "package": "ch.patrickfrei.phonetinfo.free",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_agy_tracingbabbaloo": {
+  "glyph": "pen+star",
+  "package": "com.agy.tracingbabbaloo",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_agy_triggeralign": {
+  "glyph": "crosshair+timer",
+  "package": "com.agy.triggeralign",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_agy_triggeralign_v2": {
+  "glyph": "crosshair+plus",
+  "package": "com.agy.triggeralign.v2",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_alyn_resamp": {
+  "glyph": "controller+people",
+  "package": "com.alyn.resamp",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_amazon_mshop_android_shopping": {
+  "glyph": "cart",
+  "package": "com.amazon.mShop.android.shopping",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_androguide_recovery_emulator": {
+  "glyph": "lifebuoy",
+  "package": "com.androguide.recovery.emulator",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_android_virtualization_terminal": {
+  "glyph": "terminal+box",
+  "package": "com.android.virtualization.terminal",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_appslab_glass_widgets": {
+  "glyph": "widgets",
+  "package": "com.appslab.glass.widgets",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_boedec_hoel_speaker_cleaner_remove_water": {
+  "glyph": "droplet+speaker",
+  "package": "com.boedec.hoel.speaker.cleaner.remove.water",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_ceyhan_sets": {
+  "glyph": "gear+eye",
+  "package": "com.ceyhan.sets",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_deepseek_chat": {
+  "glyph": "whale",
+  "package": "com.deepseek.chat",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_delphicoder_flud_paid": {
+  "glyph": "magnet+download",
+  "package": "com.delphicoder.flud.paid",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_deniscerri_ytdl": {
+  "glyph": "download+play",
+  "package": "com.deniscerri.ytdl",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_ebay_kijiji_ca": {
+  "glyph": "bag+magnifier",
+  "package": "com.ebay.kijiji.ca",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_epicgames_fortnite": {
+  "glyph": "storm",
+  "package": "com.epicgames.fortnite",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_freeit_java": {
+  "glyph": "cup+code",
+  "package": "com.freeit.java",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_ghisler_tcplugins_ftp": {
+  "glyph": "folder+sync",
+  "package": "com.ghisler.tcplugins.FTP",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_github_android": {
+  "glyph": "gitgraph",
+  "package": "com.github.android",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_aicore": {
+  "glyph": "chip+sparkle4",
+  "package": "com.google.android.aicore",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_bard": {
+  "glyph": "sparkle4",
+  "package": "com.google.android.apps.bard",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_betterbug": {
+  "glyph": "bug",
+  "package": "com.google.android.apps.betterbug",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_docs": {
+  "glyph": "prism",
+  "package": "com.google.android.apps.docs",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_fitness": {
+  "glyph": "heartpulse",
+  "package": "com.google.android.apps.fitness",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_googleassistant": {
+  "glyph": "dots4",
+  "package": "com.google.android.apps.googleassistant",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_googlevoice": {
+  "glyph": "mic+chat",
+  "package": "com.google.android.apps.googlevoice",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_kids_familylink": {
+  "glyph": "family",
+  "package": "com.google.android.apps.kids.familylink",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_labs_language_tailwind": {
+  "glyph": "book",
+  "package": "com.google.android.apps.labs.language.tailwind",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_magazines": {
+  "glyph": "newspaper",
+  "package": "com.google.android.apps.magazines",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_nbu_files": {
+  "glyph": "folder",
+  "package": "com.google.android.apps.nbu.files",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_paidtasks": {
+  "glyph": "coins+check",
+  "package": "com.google.android.apps.paidtasks",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_pixel_health": {
+  "glyph": "heart",
+  "package": "com.google.android.apps.pixel.health",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_pixel_nowplaying": {
+  "glyph": "note",
+  "package": "com.google.android.apps.pixel.nowplaying",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_recorder": {
+  "glyph": "waveform",
+  "package": "com.google.android.apps.recorder",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_safetyhub": {
+  "glyph": "shieldcheck",
+  "package": "com.google.android.apps.safetyhub",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_subscriptions_red": {
+  "glyph": "cloud+star",
+  "package": "com.google.android.apps.subscriptions.red",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_tachyon": {
+  "glyph": "videocam+plus",
+  "package": "com.google.android.apps.tachyon",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_tasks": {
+  "glyph": "checklist",
+  "package": "com.google.android.apps.tasks",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_translate": {
+  "glyph": "translate",
+  "package": "com.google.android.apps.translate",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_tycho": {
+  "glyph": "signal",
+  "package": "com.google.android.apps.tycho",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_walletnfcrel": {
+  "glyph": "cards",
+  "package": "com.google.android.apps.walletnfcrel",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_apps_weather": {
+  "glyph": "suncloud",
+  "package": "com.google.android.apps.weather",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_calculator": {
+  "glyph": "calc",
+  "package": "com.google.android.calculator",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_calendar": {
+  "glyph": "calendar",
+  "package": "com.google.android.calendar",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_contacts": {
+  "glyph": "person",
+  "package": "com.google.android.contacts",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_deskclock": {
+  "glyph": "clock",
+  "package": "com.google.android.deskclock",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_googlequicksearchbox": {
+  "glyph": "magnifier",
+  "package": "com.google.android.googlequicksearchbox",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_keep": {
+  "glyph": "bulb",
+  "package": "com.google.android.keep",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_play_games": {
+  "glyph": "controller",
+  "package": "com.google.android.play.games",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_videos": {
+  "glyph": "tv",
+  "package": "com.google.android.videos",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_google_android_webview_dev": {
+  "glyph": "globe+code",
+  "package": "com.google.android.webview.dev",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_hamondev_shevery": {
+  "glyph": "window+bolt",
+  "package": "com.hamondev.shevery",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_hicloud_android_clone": {
+  "glyph": "transfer",
+  "package": "com.hicloud.android.clone",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_hscnapps_ruler": {
+  "glyph": "ruler",
+  "package": "com.hscnapps.ruler",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_instagram_android": {
+  "glyph": "instacam",
+  "package": "com.instagram.android",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_iudesk_android_photo_editor": {
+  "glyph": "image+sliders",
+  "package": "com.iudesk.android.photo.editor",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_jahertor_edgecalendar": {
+  "glyph": "calendar+split",
+  "package": "com.jahertor.edgecalendar",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_jahertor_weather": {
+  "glyph": "suncloud",
+  "package": "com.jahertor.weather",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_jndapp_line_x_iconpack": {
+  "glyph": "grid",
+  "package": "com.jndapp.line.x.iconpack",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_joaomgcd_autocontacts": {
+  "glyph": "person+bolt",
+  "package": "com.joaomgcd.autocontacts",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_joaomgcd_autotools": {
+  "glyph": "wrench+bolt",
+  "package": "com.joaomgcd.autotools",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_kieronquinn_app_ambientmusicmod": {
+  "glyph": "note+waveform",
+  "package": "com.kieronquinn.app.ambientmusicmod",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_kitsumed_shizucallrecorder": {
+  "glyph": "handset+recdot",
+  "package": "com.kitsumed.shizucallrecorder",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_liuzh_deviceinfo": {
+  "glyph": "chip",
+  "package": "com.liuzh.deviceinfo",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_loblaw_shoppersdrugmart": {
+  "glyph": "pill",
+  "package": "com.loblaw.shoppersdrugmart",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_maazm7d_termuxhub": {
+  "glyph": "terminal+grid",
+  "package": "com.maazm7d.termuxhub",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_machiav3lli_fdroid": {
+  "glyph": "box+star",
+  "package": "com.machiav3lli.fdroid",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_marsvard_stickermakerforwhatsapp": {
+  "glyph": "sticker",
+  "package": "com.marsvard.stickermakerforwhatsapp",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_microsoft_appmanager": {
+  "glyph": "devices",
+  "package": "com.microsoft.appmanager",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_microsoft_bing": {
+  "glyph": "magnifier+sparkle4",
+  "package": "com.microsoft.bing",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_microsoft_copilot": {
+  "glyph": "knot",
+  "package": "com.microsoft.copilot",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_microsoft_emmx": {
+  "glyph": "swirl",
+  "package": "com.microsoft.emmx",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_microsoft_office_outlook": {
+  "glyph": "envelope+calendar",
+  "package": "com.microsoft.office.outlook",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_microsoft_rdc_androidx": {
+  "glyph": "monitor+link",
+  "package": "com.microsoft.rdc.androidx",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_minma_icon_free": {
+  "glyph": "iconpack",
+  "package": "com.minma.icon.free",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_mirfatif_permissionmanagerx": {
+  "glyph": "shield+eye",
+  "package": "com.mirfatif.permissionmanagerx",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_mirfatif_permissionmanagerx_pro": {
+  "glyph": "shieldcheck+star",
+  "package": "com.mirfatif.permissionmanagerx.pro",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_mixplorer_silver": {
+  "glyph": "folder2",
+  "package": "com.mixplorer.silver",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_mobile_infographics_tools_mydrive_ext": {
+  "glyph": "piechart",
+  "package": "com.mobile_infographics_tools.mydrive_ext",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_mouseops_app": {
+  "glyph": "cursor+gear",
+  "package": "com.mouseops.app",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_myklarnamobile": {
+  "glyph": "card+timer",
+  "package": "com.myklarnamobile",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_nannidan_aiarticons": {
+  "glyph": "iconpack+sparkle4",
+  "package": "com.nannidan.aiarticons",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_nannidan_cursorops": {
+  "glyph": "cursor+bolt",
+  "package": "com.nannidan.cursorops",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_nannidan_pixelblendr": {
+  "glyph": "pixelgrid",
+  "package": "com.nannidan.pixelblendr",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_neofinancial_neo": {
+  "glyph": "card+star",
+  "package": "com.neofinancial.neo",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_niksoftware_snapseed": {
+  "glyph": "leaf",
+  "package": "com.niksoftware.snapseed",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_opera_gx": {
+  "glyph": "opera",
+  "package": "com.opera.gx",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_payne_okux": {
+  "glyph": "remote+bolt",
+  "package": "com.payne.okux",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_paypal_android_p2pmobile": {
+  "glyph": "wallet+sync",
+  "package": "com.paypal.android.p2pmobile",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_payton_touchblocker": {
+  "glyph": "tap+block",
+  "package": "com.payton.touchblocker",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_picsart_studio": {
+  "glyph": "image+brush",
+  "package": "com.picsart.studio",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_pixel8pro_rromanager": {
+  "glyph": "grid+gear",
+  "package": "com.pixel8pro.rromanager",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_pixeltimer_app": {
+  "glyph": "timer",
+  "package": "com.pixeltimer.app",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_popovicialinc_gama": {
+  "glyph": "chip+bolt",
+  "package": "com.popovicialinc.gama",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_pzolee_wifiinfopro": {
+  "glyph": "wifi+magnifier",
+  "package": "com.pzolee.wifiinfoPro",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_quickcursor": {
+  "glyph": "cursor",
+  "package": "com.quickcursor",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_rbc_mobile_android": {
+  "glyph": "bank",
+  "package": "com.rbc.mobile.android",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_realsignal_wifiscanner": {
+  "glyph": "radar",
+  "package": "com.realsignal.wifiscanner",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_relmtech_remotepaid": {
+  "glyph": "remote+wifi",
+  "package": "com.Relmtech.RemotePaid",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_resukisu_resukisu": {
+  "glyph": "shield+chip",
+  "package": "com.resukisu.resukisu",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_rk_taskmanager": {
+  "glyph": "barchart",
+  "package": "com.rk.taskmanager",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_roblox_client": {
+  "glyph": "tiltcube",
+  "package": "com.roblox.client",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_roku_remote": {
+  "glyph": "remote",
+  "package": "com.roku.remote",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_rosan_installer_x_revived": {
+  "glyph": "box+download",
+  "package": "com.rosan.installer.x.revived",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_salat_gsplit": {
+  "glyph": "split",
+  "package": "com.salat.gsplit",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_sameerasw_overcast": {
+  "glyph": "cloud",
+  "package": "com.sameerasw.overcast",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_sammy_sbatterytweaks": {
+  "glyph": "battery+gear",
+  "package": "com.sammy.sbatterytweaks",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_sec_android_app_sbrowser": {
+  "glyph": "planet",
+  "package": "com.sec.android.app.sbrowser",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_sec_android_easymover": {
+  "glyph": "transfer+check",
+  "package": "com.sec.android.easyMover",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_sezzle_sezzlemobile": {
+  "glyph": "coins+timer",
+  "package": "com.sezzle.sezzlemobile",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_shopify_arrive": {
+  "glyph": "box+pin",
+  "package": "com.shopify.arrive",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_smartpack_packagemanager": {
+  "glyph": "box+gear",
+  "package": "com.smartpack.packagemanager",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_smartswitch_phonecloneapp_phonetransfer": {
+  "glyph": "transfer+sync",
+  "package": "com.smartswitch.phonecloneapp.phonetransfer",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_smartwidgetlabs_nfctools": {
+  "glyph": "nfc",
+  "package": "com.smartwidgetlabs.nfctools",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_smoothie_wirelessdebuggingswitch": {
+  "glyph": "wifi+bug",
+  "package": "com.smoothie.wirelessDebuggingSwitch",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_snapchat_android": {
+  "glyph": "ghost",
+  "package": "com.snapchat.android",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_soul_99_suimd": {
+  "glyph": "sliders+gear",
+  "package": "com.soul_99.suIMD",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_spaceman_verticonspro": {
+  "glyph": "iconpack+star",
+  "package": "com.spaceman.verticonspro",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_ss_edgegestures": {
+  "glyph": "gesture",
+  "package": "com.ss.edgegestures",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_stickmouse_cursor": {
+  "glyph": "cursor+star",
+  "package": "com.stickmouse.cursor",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_stremio_one": {
+  "glyph": "playhex",
+  "package": "com.stremio.one",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_tailscale_ipn": {
+  "glyph": "dots9",
+  "package": "com.tailscale.ipn",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_termux_api": {
+  "glyph": "terminal+plug",
+  "package": "com.termux.api",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_termux_gui": {
+  "glyph": "window+terminal",
+  "package": "com.termux.gui",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_termux_widget": {
+  "glyph": "terminal+widgets",
+  "package": "com.termux.widget",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_termux_x11": {
+  "glyph": "terminal+monitor",
+  "package": "com.termux.x11",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_teslacoilsw_launcher": {
+  "glyph": "house+star",
+  "package": "com.teslacoilsw.launcher",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_thetransitapp_droid": {
+  "glyph": "bus",
+  "package": "com.thetransitapp.droid",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_tom_rv2ide": {
+  "glyph": "code+gear",
+  "package": "com.tom.rv2ide",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_tribalfs_pixels": {
+  "glyph": "pixelgrid+gear",
+  "package": "com.tribalfs.pixels",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_umutk_blackout": {
+  "glyph": "moon",
+  "package": "com.umutk.blackout",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_urbandroid_mind": {
+  "glyph": "lotus",
+  "package": "com.urbandroid.mind",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_usertesting_recorder_krsna": {
+  "glyph": "monitor+recdot",
+  "package": "com.usertesting.recorder.krsna",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_vistechprojects_millimeter": {
+  "glyph": "ruler+phone",
+  "package": "com.vistechprojects.millimeter",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_wantrobapps_virtualpet": {
+  "glyph": "egg",
+  "package": "com.wantrobapps.virtualpet",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_wealthsimple_trade": {
+  "glyph": "chartup",
+  "package": "com.wealthsimple.trade",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_whatsapp": {
+  "glyph": "chat+handset",
+  "package": "com.whatsapp",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_wissamhbooss_colorpicker": {
+  "glyph": "eyedropper+palette",
+  "package": "com.wissamhbooss.colorpicker",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_x8bit_bitwarden": {
+  "glyph": "shield+lock",
+  "package": "com.x8bit.bitwarden",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_com_zzkko": {
+  "glyph": "hanger",
+  "package": "com.zzkko",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_cum_ahfu_mobi_material": {
+  "glyph": "prism+brush",
+  "package": "cum.ahfu.mobi.material",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_de_szalkowski_activitylauncher": {
+  "glyph": "rocket",
+  "package": "de.szalkowski.activitylauncher",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_dev_dect_wear_complicationbox": {
+  "glyph": "watch",
+  "package": "dev.dect.wear.complicationbox",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_dev_jason_com_google_android_inputmethod_latin": {
+  "glyph": "keyboard+gear",
+  "package": "dev.jason.com.google.android.inputmethod.latin",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_dev_rushi_apkdownloadhelper": {
+  "glyph": "download+box",
+  "package": "dev.rushi.apkdownloadhelper",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_dev_zwander_cellreader": {
+  "glyph": "signal+magnifier",
+  "package": "dev.zwander.cellreader",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_dev_zwander_installwithoptions": {
+  "glyph": "box+sliders",
+  "package": "dev.zwander.installwithoptions",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_digital_rbi_timhortons": {
+  "glyph": "cup",
+  "package": "digital.rbi.timhortons",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_es_rafalense_telegram_themes": {
+  "glyph": "plane+brush",
+  "package": "es.rafalense.telegram.themes",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_eu_sisik_hackendebug_full": {
+  "glyph": "bug+terminal",
+  "package": "eu.sisik.hackendebug.full",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_eu_thedarken_sdm": {
+  "glyph": "broom+star",
+  "package": "eu.thedarken.sdm",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_eu_thedarken_sdm_unlocker": {
+  "glyph": "broom+key",
+  "package": "eu.thedarken.sdm.unlocker",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ginlemon_flower_slcompanionapp": {
+  "glyph": "flower+link",
+  "package": "ginlemon.flower.slcompanionapp",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ginlemon_flowerfree": {
+  "glyph": "flower",
+  "package": "ginlemon.flowerfree",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_gmikhail_colorpicker": {
+  "glyph": "eyedropper",
+  "package": "gmikhail.colorpicker",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_helium314_keyboard": {
+  "glyph": "keyboard",
+  "package": "helium314.keyboard",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_in_hridayan_ashell": {
+  "glyph": "terminal+bolt",
+  "package": "in.hridayan.ashell",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_in_ms_packagenamesscripter": {
+  "glyph": "box+code",
+  "package": "in.ms.packagenamesscripter",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_io_github_androidmonitor": {
+  "glyph": "chip+heartpulse",
+  "package": "io.github.androidmonitor",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_io_github_samolego_canta": {
+  "glyph": "trash",
+  "package": "io.github.samolego.canta",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_io_github_vvb2060_ims": {
+  "glyph": "tower",
+  "package": "io.github.vvb2060.ims",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_io_github_vvb2060_ims_mod": {
+  "glyph": "tower+gear",
+  "package": "io.github.vvb2060.ims.mod",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_io_wallpaperengine_weclient": {
+  "glyph": "image+gear",
+  "package": "io.wallpaperengine.weclient",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ioapp_speaker_dustwater": {
+  "glyph": "speaker+droplet",
+  "package": "ioapp.speaker.dustwater",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_it_simonesestito_ntiles": {
+  "glyph": "tiles",
+  "package": "it.simonesestito.ntiles",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_kerneldroid_nightzuku": {
+  "glyph": "crane+moon",
+  "package": "kerneldroid.nightzuku",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_me_rhunk_snapenhance": {
+  "glyph": "ghost+sparkle4",
+  "package": "me.rhunk.snapenhance",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_me_timschneeberger_rootlessjamesdsp": {
+  "glyph": "equalizer",
+  "package": "me.timschneeberger.rootlessjamesdsp",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_me_timschneeberger_shizustore": {
+  "glyph": "crane+bag",
+  "package": "me.timschneeberger.shizustore",
+  "shape": "free",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_net_dinglisch_android_taskerm": {
+  "glyph": "gear+bolt",
+  "package": "net.dinglisch.android.taskerm",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_net_smartlauncher_beakynews": {
+  "glyph": "newspaper+flower",
+  "package": "net.smartlauncher.beakynews",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_net_smartlauncher_wallpaperstudio": {
+  "glyph": "image+flower",
+  "package": "net.smartlauncher.wallpaperstudio",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ninja_sesame_app_edge": {
+  "glyph": "magnifier+bolt",
+  "package": "ninja.sesame.app.edge",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_org_client_scrcpy": {
+  "glyph": "cast",
+  "package": "org.client.scrcpy",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_org_kustom_widget": {
+  "glyph": "widgets+brush",
+  "package": "org.kustom.widget",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_org_swiftapps_swiftbackup": {
+  "glyph": "cloud+sync",
+  "package": "org.swiftapps.swiftbackup",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_org_telegram_messenger": {
+  "glyph": "plane",
+  "package": "org.telegram.messenger",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_org_telegram_plus": {
+  "glyph": "plane+plus",
+  "package": "org.telegram.plus",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_org_videolan_vlc": {
+  "glyph": "cone",
+  "package": "org.videolan.vlc",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ru_maximoff_apktool": {
+  "glyph": "box+wrench",
+  "package": "ru.maximoff.apktool",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_ru_zdevs_zarchiver": {
+  "glyph": "archive",
+  "package": "ru.zdevs.zarchiver",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_show_taps": {
+  "glyph": "tap",
+  "package": "show.taps",
+  "shape": "circle",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_top_nkbe_npatch": {
+  "glyph": "puzzle+wrench",
+  "package": "top.nkbe.npatch",
+  "shape": "rsq",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_us_zoom_videomeetings": {
+  "glyph": "videocam",
+  "package": "us.zoom.videomeetings",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ },
+ "ic_zed_rainxch_githubstore": {
+  "glyph": "bag+gitgraph",
+  "package": "zed.rainxch.githubstore",
+  "shape": "hex",
+  "source": "curated",
+  "style": "cyberpunk"
+ }
+}

@@ -1,0 +1,13 @@
+build/
+__pycache__/
+*.pyc
+*.apk
+*.idsig
+*.jks
+*.keystore
+*.log
+*.bak.json
+.env
+cf.env
+.aider*
+.agy-archive/

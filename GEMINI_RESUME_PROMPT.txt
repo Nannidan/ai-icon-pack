@@ -1,0 +1,13 @@
+Claude reached its quota mid-task. Resume seamlessly from the current workspace state in /home/droid/projects/ai-icon-pack without deleting or overwriting valid existing PNGs in raw_icons/:
+
+1. Read AGENTS.md, .handoff.md, apps_catalog.json, and ~/.config/ai-icon-pack/cf.env (to confirm ICON_STYLE and MAX_DAILY_NEURONS=9500).
+2. Inspect build_pack.py (finish or repair it if Claude left incomplete edits) and inspect 2-3 existing valid PNGs in raw_icons/ so all remaining icons strictly match the exact style, color palette, lighting, and proportions already established.
+3. Check which entries in apps_catalog.json still lack a valid raw_icons/<drawable>.png:
+   - If Cloudflare Workers AI still has unused daily Neuron budget in usage_ledger.json (under 9,500 Neurons/day), run python3 build_pack.py first to generate as many remaining icons as Cloudflare allows.
+   - For every remaining app after Cloudflare's budget is exhausted (or if Cloudflare returns 402/429), render bespoke, high-craft 512x512 RGB PNGs locally using Python (SVG rendered via rsvg-convert/cairosvg or 1024x1024 supersampled Pillow vector/gradient/bloom layers — no generic placeholders).
+4. Strictly enforce these visual rules on every generated icon:
+   - Full-bleed 512x512 square on a uniform #050508 AMOLED near-black background.
+   - Main emblem centered inside the inner 58% safe zone (~296x296 px center) so adaptive launcher masks never clip it.
+   - Match ICON_STYLE (cyberpunk: dark anodized obsidian + glowing #00F5FF cyan and #FF007F magenta rim lighting + soft bloom; 3d: matte obsidian & brushed titanium studio bevels; painted: textured jewel-tone highlights; retro: synthwave chrome + amber/teal/magenta neon glow).
+   - Zero text, letters, watermarks, or outer border frames.
+5. Run python3 build_pack.py --build-only so all icons plus the 3 local 512x512 fallback masks (iconback, iconmask, iconupon) are packaged with Python's zipfile + aapt2 + d8 + zipalign + apksigner into /mnt/shared/Download/AIArtIcons-Pixel.apk, verify with /usr/bin/apksigner verify --verbose /mnt/shared/Download/AIArtIcons-Pixel.apk, and report the final mapped component count.

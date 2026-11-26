@@ -1,0 +1,10 @@
+Cloudflare Workers AI has reached its daily Neuron limit. Finish all remaining ungenerated apps in apps_catalog.json locally using Claude so the icon pack is 100% complete and visually seamless:
+
+1. Read ~/.config/ai-icon-pack/cf.env (to confirm ICON_STYLE) and inspect existing PNGs in raw_icons/ plus STYLE_PROMPTS in build_pack.py so every remaining icon strictly matches the exact style, color palette, lighting, and proportions of the Cloudflare-generated icons.
+2. For every entry in apps_catalog.json that does not yet have raw_icons/<drawable>.png, generate a bespoke, high-craft 512x512 RGB PNG tailored to its app_name and prompt_subject (using custom SVG rendered via rsvg-convert/cairosvg or 1024x1024 supersampled Pillow vector/gradient/bloom layers—no generic placeholders).
+3. Strictly enforce the pack's visual rules on every generated icon:
+   - Full-bleed 512x512 square on a uniform #050508 AMOLED near-black background.
+   - Main emblem centered strictly inside the inner 58% safe zone (~296x296 px center) so adaptive launcher masks never clip it.
+   - Match the active theme palette (cyberpunk: dark anodized obsidian + glowing #00F5FF cyan and #FF007F magenta rim lighting + soft bloom; 3d: matte obsidian & brushed titanium studio bevels; painted: textured jewel-tone highlights; retro: synthwave chrome + amber/teal/magenta neon glow).
+   - Zero text, letters, watermarks, or outer border frames.
+4. Run python3 build_pack.py --build-only so all Cloudflare + Claude-rendered icons and the 3 local fallback masks (iconback, iconmask, iconupon) are packaged into /mnt/shared/Download/AIArtIcons-Pixel.apk, verify with /usr/bin/apksigner verify --verbose /mnt/shared/Download/AIArtIcons-Pixel.apk, and print the final mapped icon count.
